@@ -6,5 +6,9 @@
     font-family: "outfit", Arial, Helvetica, sans-serif;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 
 
